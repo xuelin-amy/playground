@@ -1,12 +1,11 @@
 # Site navigation links
-
+- title: Featured
+  url: /featured/
 - title: Posts
   url: /posts/
 - title: Categories
   url: /categories/
 - title: Tags
   url: /tags/
-- title: Recipes
-  url: /recipes/
 - title: Search
   url: /search/
