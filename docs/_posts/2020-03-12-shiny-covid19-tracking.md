@@ -5,6 +5,7 @@ categories:
   - R
   - shiny
   - visualization
+classes: wide
 ---
 
 # Introduction
