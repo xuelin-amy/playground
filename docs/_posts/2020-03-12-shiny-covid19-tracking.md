@@ -22,6 +22,6 @@ Then I found there's reliable data source from Johns Hopkins University, and the
 
 # ShinyApp
 
-![]('./images/shiny_covid19.png')
+![]('https://raw.githubusercontent.com/xuelin-amy/playground/master/docs/images/shiny_covid19.png')
 
 the demo is available [here](https://xuelin.shinyapps.io/shiny_covid19/)
