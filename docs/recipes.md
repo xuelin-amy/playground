@@ -28,6 +28,7 @@ entries_layout: grid
     <span class="read-time">~3 min read</span>     
     </footer>
 </article>
+
 <article class="entry h-entry">
   <header class="entry-header">
     <h3 class="entry-title p-name">
@@ -35,12 +36,14 @@ entries_layout: grid
     </h3>
       <img class="entry-image u-photo" src="/playground/images/amazon-product-review-logo.jpg" alt="">
   </header>
-    <div class="entry-excerpt p-summary">
-        <p>analyze the text data from Amazon product reviews in Python</p> 
-    </div>
-    <footer class="entry-meta">
+
+  <div class="entry-excerpt p-summary">
+      <p>analyze the text data from Amazon product reviews in Python</p> 
+  </div>
+  
+  <footer class="entry-meta">
     <span class="read-time">~3 min read</span>     
-    </footer>
+  </footer>
 </article>
 
 </div>
