@@ -120,6 +120,9 @@ author:
     - title: LinkedIn
       url: https://www.linkedin.com/in/xuelin-hou/
       icon: fab fa-linkedin
+    - title: Tableau
+      url: https://public.tableau.com/profile/xuelin.hou
+      icon: fas fa-chart-line 
 
 # Footer Links
 footer_links:
